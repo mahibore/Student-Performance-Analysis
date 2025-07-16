@@ -1,4 +1,4 @@
-# Student Performance Analysis
+# Student Performance Analysis Machine Learning Project
 ![](https://github.com/mahibore/Student-Performance-Analysis/blob/main/2.jpg)
 This repository contains a Jupyter Notebook for analyzing student performance. The analysis aims to predict student GPA based on various factors.
 
